@@ -1,5 +1,6 @@
 fun main(){
-	val morningNotification = 51
+    //Test variables 	
+    val morningNotification = 51
     val eveningNotification = 135 
     
     printNotificationSummary(morningNotification)
